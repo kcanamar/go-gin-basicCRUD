@@ -22,9 +22,6 @@ var books = []book{
 	{ID: "3", Title: "Three", Author: "Jaime", Quantity: 3},
 }
 
-func int() {
-
-}
 
 // Helpers
 func getBookById(id string) (*book, error) {
